@@ -1,0 +1,82 @@
+
+body {
+    background-color: #E8E8E8;
+}
+
+#vision-board {
+    background-image: url("../img/background.png");
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    height: 850px;
+    margin: auto;
+    text-transform: uppercase;
+    width: 1200px;
+}
+
+.block {
+    box-sizing: border-box;
+    float: left;
+    width: 400px;
+    overflow: auto;
+}
+
+.small-block {
+    height: 210px;
+    padding: 5px;
+}
+
+.large-block {
+    height: 430px;
+    padding: 55px 40px 40px 40px;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.centered {
+    text-align: center;
+}
+
+.light-bg {
+    background-color: white;
+}
+
+span {
+    font-size: 20px;
+    background-color: yellow;
+}
+
+.title {
+    background-color: #3B3B3B;
+    color: white;
+    font-size: 30px;
+}
+
+.title span {
+    background-color: #3B3B3B;
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+}
+
+strong {
+    font-size: 38px;
+    text-transform: none;
+}
+
+.img-only {
+    padding-top: 35px;
+}
+
+.lists {
+    padding-top: 25px;
+}
+
+.plane-pig {
+    padding-top: 90px;
+}
